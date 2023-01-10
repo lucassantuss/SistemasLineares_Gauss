@@ -1,0 +1,85 @@
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csprojAssemblyReference.cache
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\Users\Guilherme\Downloads\Sistemas Lineares (10_11)\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csprojAssemblyReference.cache
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\3D Objects\Design\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Sistemas Lineares Design\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\Users\Lucas\Desktop\Sistemas Lineares - N2\Guilherme, Lucas, Victor - Sistemas Lineares\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
