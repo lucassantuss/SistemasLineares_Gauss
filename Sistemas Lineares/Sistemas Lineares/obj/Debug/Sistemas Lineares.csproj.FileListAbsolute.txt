@@ -83,3 +83,15 @@ E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Line
 E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
 E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
 E:\GITHUB\FESA\EC2\Windows Forms\Atividades\Sistemas Lineares - N2\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe.config
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.exe
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\bin\Debug\Sistemas Lineares.pdb
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.AssemblyReference.cache
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmInicial.resources
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmPrincipal.resources
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.FrmSobre.resources
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas_Lineares.Properties.Resources.resources
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.GenerateResource.cache
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.csproj.CoreCompileInputs.cache
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.exe
+C:\GITHUB\SistemasLineares_Gauss\Sistemas Lineares\Sistemas Lineares\obj\Debug\Sistemas Lineares.pdb
