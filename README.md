@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Linear Systems - Gauss Method</h1>
+<h1 align="center" style="font-weight: bold;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Linear Systems - Gaussian Elimination</h1>
 
 <p align="center">
  <a href="#layout">Layout</a> • 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>Application to solve Linear Systems using the Gauss method, performed with Windows Forms and C#</b>
+    <b>Application to solve Linear Systems using the Gaussian elimination method, performed with Windows Forms and C#</b>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
