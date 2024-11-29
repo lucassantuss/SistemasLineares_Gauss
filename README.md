@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>Application to solve Linear Systems using the Gaussian elimination method, performed with Windows Forms and C#</b>
+    <b>Application to solve Linear Systems using the Gaussian elimination method, performed with C# and Windows Forms</b>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
