@@ -42,7 +42,7 @@
     <td align="center">
       <a href="https://github.com/GuillerFN">
         <img src="https://github.com/GuillerFN.png" width="100px;" alt="Guilherme Profile Picture"/><br>
-          <b>Guilherme F. Nishiyama</b>
+          <b>Guilherme Nishiyama</b>
       </a>
     </td>
     <td align="center">
